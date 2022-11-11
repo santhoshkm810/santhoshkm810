@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Santhosh K M
+- 👋 Hi, My name is Santhosh K M
 - 💻 I'm Java Full Stack Developer
 - 👀 I’m interested in Developing Web Applications And Mobile Applications
 - 🌱 I’m currently learning SpringBoot FrameWorks and Integrating with Microservices
